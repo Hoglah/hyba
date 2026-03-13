@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hyba/static/css/main.573eb9b6.css",
-    "main.js": "/hyba/static/js/main.be62bb7f.js",
+    "main.css": "/hyba/static/css/main.43b2982b.css",
+    "main.js": "/hyba/static/js/main.51988d35.js",
     "static/js/453.a7d99afe.chunk.js": "/hyba/static/js/453.a7d99afe.chunk.js",
     "static/media/hero.jpg": "/hyba/static/media/hero.7f92db2e25c85c875bc9.jpg",
     "static/media/p4.jpg": "/hyba/static/media/p4.ce56ba8f37a7aae1cbff.jpg",
@@ -20,12 +20,12 @@
     "static/media/s5.png": "/hyba/static/media/s5.6e6c7e8224c165c78ed6.png",
     "static/media/s4.png": "/hyba/static/media/s4.7aba29a5d41005c912b8.png",
     "index.html": "/hyba/index.html",
-    "main.573eb9b6.css.map": "/hyba/static/css/main.573eb9b6.css.map",
-    "main.be62bb7f.js.map": "/hyba/static/js/main.be62bb7f.js.map",
+    "main.43b2982b.css.map": "/hyba/static/css/main.43b2982b.css.map",
+    "main.51988d35.js.map": "/hyba/static/js/main.51988d35.js.map",
     "453.a7d99afe.chunk.js.map": "/hyba/static/js/453.a7d99afe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.573eb9b6.css",
-    "static/js/main.be62bb7f.js"
+    "static/css/main.43b2982b.css",
+    "static/js/main.51988d35.js"
   ]
 }
