@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hyba/static/css/main.43b2982b.css",
-    "main.js": "/hyba/static/js/main.45a33abd.js",
+    "main.js": "/hyba/static/js/main.1d7cf991.js",
     "static/js/453.a7d99afe.chunk.js": "/hyba/static/js/453.a7d99afe.chunk.js",
     "static/media/hero.jpg": "/hyba/static/media/hero.7f92db2e25c85c875bc9.jpg",
     "static/media/p4.jpg": "/hyba/static/media/p4.ce56ba8f37a7aae1cbff.jpg",
@@ -21,11 +21,11 @@
     "static/media/s4.png": "/hyba/static/media/s4.7aba29a5d41005c912b8.png",
     "index.html": "/hyba/index.html",
     "main.43b2982b.css.map": "/hyba/static/css/main.43b2982b.css.map",
-    "main.45a33abd.js.map": "/hyba/static/js/main.45a33abd.js.map",
+    "main.1d7cf991.js.map": "/hyba/static/js/main.1d7cf991.js.map",
     "453.a7d99afe.chunk.js.map": "/hyba/static/js/453.a7d99afe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43b2982b.css",
-    "static/js/main.45a33abd.js"
+    "static/js/main.1d7cf991.js"
   ]
 }
